@@ -4,6 +4,6 @@
 - The output of the signal is 3 phase PWM signals with 120 degre phase shift and also its inverse signals
 
 ```markdown
-![Output](/result.png)
+![Output](result.png)
 
    
