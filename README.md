@@ -3,7 +3,6 @@
 - Frequency of PWM can be adjusted by editting TIM1->ARR Value on the loop
 - The output of the signal is 3 phase PWM signals with 120 degre phase shift and also its inverse signals
 
-```markdown
-![Output](https://github.com/amripermana/Simple3phasePWM/blob/main/result.png)
+![Output example](https://github.com/amripermana/Simple3phasePWM/blob/main/result.png)
 
    
